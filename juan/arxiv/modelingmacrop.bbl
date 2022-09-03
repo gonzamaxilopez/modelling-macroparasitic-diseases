@@ -1,0 +1,96 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Anderson and May}{1982}]{anderson1982population}
+Anderson, R. and May, R. (1982).
+\newblock Population dynamics of human helminth infections: control by
+  chemotherapy.
+\newblock {\em Nature}, 297(5867):557--563.
+
+\bibitem[\protect\astroncite{Anderson and May}{1992}]{anderson1992infectious}
+Anderson, R. and May, R. (1992).
+\newblock {\em Infectious diseases of humans: dynamics and control}.
+\newblock Oxford university press.
+
+\bibitem[\protect\astroncite{Anderson et~al.}{2014}]{anderson2014coverage}
+Anderson, R., Truscott, J., and Hollingsworth, T. (2014).
+\newblock The coverage and frequency of mass drug administration required to
+  eliminate persistent transmission of soil-transmitted helminths.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 369(1645):20130435.
+
+\bibitem[\protect\astroncite{Anderson and May}{1985}]{anderson1985helminth}
+Anderson, R.~M. and May, R.~M. (1985).
+\newblock Helminth infections of humans: mathematical models, population
+  dynamics, and control.
+\newblock In {\em Advances in parasitology}, volume~24, pages 1--101. Elsevier.
+
+\bibitem[\protect\astroncite{Churcher et~al.}{2006}]{churcher2006density}
+Churcher, T.~S., Filipe, J.~A., and Bas{\'a}{\~n}ez, M.~G. (2006).
+\newblock Density dependence and the control of helminth parasites.
+\newblock {\em Journal of animal ecology}, 75(6):1313--1320.
+
+\bibitem[\protect\astroncite{Gandolfi et~al.}{2015}]{gandolfi2015epidemic}
+Gandolfi, A., Pugliese, A., and Sinisgalli, C. (2015).
+\newblock Epidemic dynamics and host immune response: a nested approach.
+\newblock {\em Journal of mathematical biology}, 70(3):399--435.
+
+\bibitem[\protect\astroncite{Hall and Holland}{2000}]{hall2000geographical}
+Hall, A. and Holland, C. (2000).
+\newblock Geographical variation in ascaris lumbricoides fecundity and its
+  implications for helminth control.
+\newblock {\em Parasitology Today}, 16(12):540--544.
+
+\bibitem[\protect\astroncite{Leyton}{1968}]{leyton1968stochastic}
+Leyton, M. (1968).
+\newblock Stochastic models in populations of helminthic parasites in the
+  definitive host, ii: sexual mating functions.
+\newblock {\em Mathematical Biosciences}, 3:413--419.
+
+\bibitem[\protect\astroncite{Lopez and Aparicio}{2022a}]{lopez2022general}
+Lopez, G.~M. and Aparicio, J.~P. (2022a).
+\newblock General model of sex distribution, mating probability and egg
+  production for macroparasites with polygamous mating system.
+\newblock {\em arXiv preprint arXiv:2202.11552}.
+
+\bibitem[\protect\astroncite{Lopez and Aparicio}{2022b}]{lopez2022simple}
+Lopez, G.~M. and Aparicio, J.~P. (2022b).
+\newblock Simple models for macro-parasite distributions in hosts.
+\newblock {\em arXiv preprint arXiv:2202.11282}.
+
+\bibitem[\protect\astroncite{Macdonald et~al.}{1965}]{macdonald1965dynamics}
+Macdonald, G. et~al. (1965).
+\newblock The dynamics of helminth infections, with special reference to
+  schistosomes.
+\newblock {\em Transactions of the Royal Society of Tropical Medicine and
+  Hygiene}, 59(5):489--506.
+
+\bibitem[\protect\astroncite{Seo et~al.}{1979}]{seo1979frequency}
+Seo, B.~S., Cho, S.~Y., and Chai, J.~Y. (1979).
+\newblock Frequency distribution of ascaris lumbricoides in rural koreans with
+  special reference on the effect of changing endemicity.
+\newblock {\em Korean J Parasitol}, 17(2):105--113.
+
+\bibitem[\protect\astroncite{Tallis and Leyton}{1966}]{tallis1966stochastic}
+Tallis, G. and Leyton, M. (1966).
+\newblock A stochastic approach to the study of parasite populations.
+\newblock {\em Journal of Theoretical Biology}, 13:251--260.
+
+\bibitem[\protect\astroncite{Tallis and Leyton}{1969}]{tallis1969stochastic}
+Tallis, G. and Leyton, M. (1969).
+\newblock Stochastic models of populations of helminthic parasites in the
+  definitive host. i.
+\newblock {\em Mathematical Biosciences}, 4(1-2):39--48.
+
+\bibitem[\protect\astroncite{Truscott et~al.}{2014}]{truscott2014modeling}
+Truscott, J., Hollingsworth, T.~D., and Anderson, R. (2014).
+\newblock Modeling the interruption of the transmission of soil-transmitted
+  helminths by repeated mass chemotherapy of school-age children.
+\newblock {\em PLoS neglected tropical diseases}, 8(12):e3323.
+
+\bibitem[\protect\astroncite{Truscott et~al.}{2016}]{truscott2016soil}
+Truscott, J., Turner, H., Farrell, S., and Anderson, R. (2016).
+\newblock Soil-transmitted helminths: mathematical models of transmission, the
+  impact of mass drug administration and transmission elimination criteria.
+\newblock {\em Advances in parasitology}, 94:133--198.
+
+\end{thebibliography}

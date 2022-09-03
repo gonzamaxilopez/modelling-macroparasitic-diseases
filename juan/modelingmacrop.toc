@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\contentsline {section}{Abstract}{1}{Doc-Start}% 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}% 
+\contentsline {section}{\numberline {2}General framework}{3}{section.2}% 
+\contentsline {section}{\numberline {3}A basic model}{3}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Model structure}{3}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Equilibria and basic reproduction number}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Saddle-node bifurcation}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}A heterogeneous model}{10}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Equilibria and basic reproduction number}{10}{subsection.4.1}% 
+\contentsline {section}{\numberline {5}Discussion and Conclusions}{11}{section.5}% 
+\contentsline {section}{Bibliography}{12}{section*.7}% 

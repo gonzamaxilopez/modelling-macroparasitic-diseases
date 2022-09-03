@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\contentsline {section}{Abstract}{1}{Doc-Start}% 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Epidemiological patterns}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Distribution of parasite numbers per host}{3}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Distribution of parasites by sex}{3}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Density-dependent fecundity}{4}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Mean egg production per host}{4}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Mean fertilized egg production per host}{5}{subsection.2.5}% 
+\contentsline {section}{\numberline {3}A basic model}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Model structure}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Equilibria and basic reproduction number}{7}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Saddle-node bifurcation}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}A heterogeneous model}{9}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Equilibria and basic reproduction number}{10}{subsection.4.1}% 
+\contentsline {section}{Bibliography}{11}{section*.6}% 

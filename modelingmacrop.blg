@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: modelingmacrop.aux
+The style file: apa.bst
+Database file #1: biblio.bib
+Warning--I didn't find a database entry for "truscott2014modeling"
+Warning--empty year in bliss91953
+You've used 20 entries,
+            1940 wiz_defined-function locations,
+            609 strings with 7515 characters,
+and the built_in function-call counts, 8458 in all, are:
+= -- 840
+> -- 328
+< -- 13
++ -- 124
+- -- 108
+* -- 796
+:= -- 1440
+add.period$ -- 61
+call.type$ -- 20
+change.case$ -- 152
+chr.to.int$ -- 20
+cite$ -- 21
+duplicate$ -- 289
+empty$ -- 596
+format.name$ -- 145
+if$ -- 1623
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 21
+newline$ -- 103
+num.names$ -- 60
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 153
+quote$ -- 0
+skip$ -- 216
+stack$ -- 0
+substring$ -- 708
+swap$ -- 46
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 118
+warning$ -- 1
+while$ -- 77
+width$ -- 0
+write$ -- 262
+(There were 2 warnings)
