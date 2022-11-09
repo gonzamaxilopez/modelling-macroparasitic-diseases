@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2022.5.4)  25 AUG 2022 09:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2022.1.31)  16 SEP 2022 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,6 +519,14 @@ s
 \c@example=\count135
 \c@remark=\count136
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
 (./MMSB-modelingmacrop.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
@@ -529,27 +537,27 @@ LaTeX Warning: Label `valorR0' multiply defined.
 )
 \openout1 = `MMSB-modelingmacrop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 74.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 74
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 75.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 75
 .
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -582,16 +590,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box36
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -601,9 +600,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 
 (./MMSB-modelingmacrop.out) (./MMSB-modelingmacrop.out)
 \@outlinefile=\write3
@@ -612,62 +611,62 @@ LaTeX Info: Redefining \nameref on input line 74.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
-5.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 105.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 113.
-LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 113.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <26.33693> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 114.
+LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 114.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <26.33693> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 115.
 Package lettrine.sty Info: Targeted height = 17.14496pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 18.14601pt (\textbf {M});
-(lettrine.sty)             reported on input line 114.
+(lettrine.sty)             reported on input line 115.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 134.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 135.
 <filesMMSB-class/logoMMSB.png, id=60, 254.8722pt x 105.5142pt>
 File: filesMMSB-class/logoMMSB.png Graphic file (type png)
 <use filesMMSB-class/logoMMSB.png>
-Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 134.
+Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 135.
 (pdftex.def)             Requested size: 82.47469pt x 34.14322pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -677,37 +676,37 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 <dataseo.png, id=82, 774.7344pt x 592.97536pt>
 File: dataseo.png Graphic file (type png)
 <use dataseo.png>
-Package pdftex.def Info: dataseo.png  used on input line 147.
+Package pdftex.def Info: dataseo.png  used on input line 148.
 (pdftex.def)             Requested size: 239.43126pt x 183.25948pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 161.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 162.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 161.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 162.
  [2 <./dataseo.png>]
-Underfull \hbox (badness 1173) in paragraph at lines 208--222
+Underfull \hbox (badness 1173) in paragraph at lines 213--227
 \T1/ptm/m/n/10 vi-ron-men-tal re-ser-voir per host and per unit of ti-me is
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 208--222
+Underfull \hbox (badness 1147) in paragraph at lines 213--227
 \T1/ptm/m/n/10 tri-bu-tion ra-te and the to-tal con-tri-bu-tion of eggs to the
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 208--222
+Underfull \hbox (badness 2027) in paragraph at lines 213--227
 \T1/ptm/m/n/10 re-ser-voir per unit of ti-me of a host po-pu-la-tion $\OML/ztmc
 m/m/it/10 N$ \T1/ptm/m/n/10 is
  []
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 282.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 287.
 <bifurcation.png, id=136, 774.7344pt x 592.97536pt>
 File: bifurcation.png Graphic file (type png)
 <use bifurcation.png>
-Package pdftex.def Info: bifurcation.png  used on input line 294.
+Package pdftex.def Info: bifurcation.png  used on input line 299.
 (pdftex.def)             Requested size: 239.43126pt x 183.25948pt.
 
-Overfull \hbox (2.94609pt too wide) detected at line 318
+Overfull \hbox (2.94609pt too wide) detected at line 323
 []\OT1/ztmcm/m/n/10 ^^@[] = ^^@[] = ^^@[] = 1\OML/ztmcm/m/it/10 ;  \OT1/ztmcm/m
 /n/10 ^^@[] = \OMS/ztmcm/m/n/10 ^^@[]\OML/ztmcm/m/it/10 ;  \OT1/ztmcm/m/n/10 ^^
 @[] = \OMS/ztmcm/m/n/10 ^^@[]
@@ -715,39 +714,34 @@ Overfull \hbox (2.94609pt too wide) detected at line 318
 
 File: filesMMSB-class/logoMMSB.png Graphic file (type png)
 <use filesMMSB-class/logoMMSB.png>
-Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 323.
+Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 328.
 (pdftex.def)             Requested size: 82.47469pt x 34.14322pt.
 [3 <./bifurcation.png>]
 
-Package hyperref Warning: Suppressing empty link on input line 330.
+Package hyperref Warning: Suppressing empty link on input line 335.
 
 
-Overfull \hbox (11.87718pt too wide) detected at line 382
-[][]
+Overfull \hbox (2.2924pt too wide) detected at line 388
+ []$[]  [] \OT1/ztmcm/m/n/10 = \OML/ztmcm/m/it/10 f\OT1/ztmcm/m/n/10 ([]\OML/zt
+mcm/m/it/10 ; []\OT1/ztmcm/m/n/10 ) + (\OML/ztmcm/m/it/10 m \OMS/ztmcm/m/n/10 ^
+^@ []\OT1/ztmcm/m/n/10 )[][][] + (\OML/ztmcm/m/it/10 R[] \OMS/ztmcm/m/n/10 ^^@ 
+[]\OT1/ztmcm/m/n/10 )[]$ 
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 387--390
-\T1/ptm/m/n/10 where the va-lues $\OML/ztmcm/m/it/10 A \OT1/ztmcm/m/n/10 = (\OM
-L/ztmcm/m/it/10 ^^V[] \OT1/ztmcm/m/n/10 + \OML/ztmcm/m/it/10 ^^V[]\OT1/ztmcm/m/
-n/10 )[]$ \T1/ptm/m/n/10 and $\OML/ztmcm/m/it/10 B \OT1/ztmcm/m/n/10 = (\OML/zt
-mcm/m/it/10 ^^V[] \OT1/ztmcm/m/n/10 +
- []
-
-
-Overfull \hbox (17.90398pt too wide) detected at line 431
+Overfull \hbox (0.9731pt too wide) detected at line 450
 []
  []
 
 
-Overfull \hbox (3.50174pt too wide) detected at line 436
+Overfull \hbox (3.50174pt too wide) detected at line 455
 [] [] \OML/ztmcm/m/it/10 ^^Y[][] [] F\OT1/ztmcm/m/n/10 (\OML/ztmcm/m/it/10 m[]\
 OT1/ztmcm/m/n/10 )\OML/ztmcm/m/it/10 m[] \OMS/ztmcm/m/n/10 ^^@ \OML/ztmcm/m/it/
 10 m[] \OT1/ztmcm/m/n/10 = 0
  []
 
 [4]
-Underfull \hbox (badness 2126) in paragraph at lines 456--459
+Underfull \hbox (badness 2126) in paragraph at lines 488--491
 \T1/ptm/m/n/10 where we as-su-me the ab-sen-ce the ef-fects of density-
  []
 
@@ -761,33 +755,33 @@ s of
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 493.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 525.
 File: filesMMSB-class/logoMMSB.png Graphic file (type png)
 <use filesMMSB-class/logoMMSB.png>
-Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 493.
+Package pdftex.def Info: filesMMSB-class/logoMMSB.png  used on input line 525.
 (pdftex.def)             Requested size: 82.47469pt x 34.14322pt.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 493.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 525.
  (./MMSB-modelingmacrop.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 493.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 493.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 525.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 525.
 Package rerunfilecheck Info: File `MMSB-modelingmacrop.out' has not changed.
 (rerunfilecheck)             Checksum: 99C9BB0092CE5EC92550646DACD02991;616.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 525.
  ) 
 Here is how much of TeX's memory you used:
- 10101 strings out of 492615
- 144722 string characters out of 6131391
- 265531 words of memory out of 5000000
- 13737 multiletter control sequences out of 15000+600000
- 104920 words of font info for 145 fonts, out of 8000000 for 9000
+ 10103 strings out of 492615
+ 144763 string characters out of 6131390
+ 264694 words of memory out of 5000000
+ 13738 multiletter control sequences out of 15000+600000
+ 104142 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,18n,45p,899b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -800,10 +794,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on MMSB-modelingmacrop.pdf (5 pages, 327129 bytes).
+Output written on MMSB-modelingmacrop.pdf (5 pages, 327388 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

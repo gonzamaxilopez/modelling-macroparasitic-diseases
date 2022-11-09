@@ -4,6 +4,7 @@
 %% Esta construido usando como base el formato de acceso abierto de la IEEE.
 
 \documentclass[eng]{MMSB-class-eng}
+\usepackage{color}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Page number where the article starts
@@ -14,14 +15,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Publication title
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{Modelling macroparasitic diseases dynamics\\
+\title{Modeling macroparasite diseases dynamics\\
 {\ }\\
-Modelado de la din\'amica de enfermedades macroparasitarias}
+Modelado de la dinámica de enfermedades por macroparásitos}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Short title for the header (copy the main title if it is not too long)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\shorttitle{Modelling macroparasitic diseases dynamics}
+\shorttitle{Modeling macroparasite diseases dynamics}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Authors
@@ -176,8 +177,12 @@ Therefore, the probability of observing $n$ parasites in a host is
 \begin{equation}\label{disnb}
 \mathrm{P}(W=n)=\frac{\Gamma(k+n)}{\Gamma(n+1)\Gamma(k)}\left( \frac{k}{m+k}\right) ^{k} \left( \frac{m}{m+k}\right) ^n
 \end{equation}
-where $m$ is the mean value (the mean population parasite burden) and $k$ the shape parameter. 
-The variance increases with the reciprocal of $k$ as $\sigma^2=m+m^2/k$.
+where $\Gamma$ is the gamma function,  
+$m$ is the mean value (the mean population parasite burden) and $k$ the shape parameter, where the variance increases with the reciprocal of $k$ as $\sigma^2=m+m^2/k$. 
+The term $\frac{k}{m+k}$ is the probability of success and $ \frac{m}{m+k}$ is the  probability of failure.
+
+
+%The variance increases with the reciprocal of $k$ as $\sigma^2=m+m^2/k$.
 
 Mean egg production depends of the number of parasites within the host, it is a density-dependent process. 
 A simple model for the average female fecundity of a female parasite in competition with $n-1$ parasites is given by 
@@ -199,7 +204,7 @@ However only hosts with at least one female and one male parasites will effectiv
 \alpha m
 \psi(m,k,z)\phi(m,k,z)
 \end{equation} 
-where $\phi(m,k,z)$ is the mating probability for the negative binomial distribution computed in \citep{lopez2022general}
+where $\phi(m,k,z)$ is the mating probability for the negative binomial distribution computed in \citet{lopez2022general}
 \begin{equation}
 \phi(m,k,z)=1-\left[ \frac{1+ \left( 1-
 	%\dfrac{z}{2} 
@@ -372,20 +377,26 @@ A sufficient condition for the existence of a saddle-node bifurcation at $(\tild
 \end{equation}
 
 By a Taylor series expansion of the function $f$ in a neighborhood of $(\tilde m,\tilde R_0)$, the equation (\ref{eqMR0}) is left
-\begin{equation}
-{\scriptstyle	
+%\begin{equation}
+\begin{multline}
+%{\scriptstyle	
 	\frac{dm}{dt}=f(\tilde m,\tilde R_0)+(m-\tilde m)\frac{\partial f }{\partial m}\big\vert_{(\tilde m,\tilde R_0)}%\delta M
 	+(R_0-\tilde R_0){\frac{\partial f }{\partial R_0}\big\vert_{(\tilde m,\tilde R_0)}}%\delta R_0
-	+{\frac {1}{2}}(m-\tilde m)^2{\frac{\partial^2 f }{\partial m^2}}\big\vert_{(\tilde m,\tilde R_0)}%\delta M^{2}
+	\\+{\frac {1}{2}}(m-\tilde m)^2{\frac{\partial^2 f }{\partial m^2}}\big\vert_{(\tilde m,\tilde R_0)}%\delta M^{2}
 	+\cdots 
-}
-\end{equation}
+%}
+\end{multline}
+%\end{equation}
 %Por lo tanto localmente en el punto $(m^{\star},R_0^{\star})$ la ecuación es de la forma
 Therefore locally at the point $(\tilde m,\tilde R_0)$ the equation is of the form
 \begin{equation}
-\dfrac{dm}{dt}=A(R_0-\tilde R_0)+B(m-\tilde m)^2
+\dfrac{dm}{dt}=A(R_0-\tilde R_0)+B(m-\tilde m)^2,
 \end{equation}
-where the values $A=(\mu_h +\mu_p)\frac{\tilde m}{\tilde R_0}$ and $B=(\mu_h + \mu_p) R_0 \tilde m \frac{\partial^2 F}{\partial m^2}(\tilde m)$ with $F(m)= \psi(m,z,k)\phi(m,z, k)$
+where the values $A$ and $B$ are
+\begin{equation}
+A=(\mu_h +\mu_p)\frac{\tilde m}{\tilde R_0}, \qquad  B=(\mu_h + \mu_p) R_0 \tilde m \frac{\partial^2 F}{\partial m^2}(\tilde m),
+\end{equation}
+with $F(m)= \psi(m,z,k)\phi(m,z, k)$
 which is the normal form of a saddle-node bifurcation.
 
 \section{A heterogeneous model}
@@ -399,9 +410,15 @@ In this section we will consider the more general and realistic case for a host 
 \sum_i  N_i \rho_i  m_i F(m_i)   - (\mu_{\ell}+\sum_i \beta_i N_i ) \ell 
 \end{split}
 \end{equation} 
-where $N_{i}$ is the number of host in $H_i$.
-
-
+%where $N_{i}$ is the number of host in $H_i$.
+where the parameters that detail correspond to each subgroup $H_i$
+\begin{itemize}
+	\item $m_i$ is mean parasite burden,
+	\item $\beta_i$ and $\rho_i$  are the rate of contact (or exposure) and the rate contribution
+	of a host to the reservoir $L$, respectively,
+	\item $N_{i}$ is the number of host,
+\end{itemize}
+the rest of the parameters are defined as in the previous section.
 \subsection{Equilibria and basic reproduction number} 
 From the system \eqref{model2} we obtain that in equilibrium
 %Del sistema \eqref{model2} obtenemos que en el equilibrio
@@ -424,7 +441,9 @@ m=\sum_i \pi_i m_{i}
 where $\pi_i$ is the portion of the population $H$ corresponding to the subpopulation $H_i$, and which is described by
 \begin{equation}
 \begin{split}
-\dfrac{dm}{dt}= \left( \sum_i N_i \beta_{i} \right)  
+\dfrac{dm}{dt}= %\left( 
+\sum_i N_i \beta_{i} 
+%\right)  
 \frac{ \lambda_0 \alpha }{(\mu_{\ell}+\sum_j N_j \beta_j  )}  
 \sum_j \rho_{j} \pi_{j} m_{j} F(m_{j})   -(\mu_{h}+\mu_p) m%\notag es para no tener numero en ecuacion
 \end{split}
@@ -437,16 +456,29 @@ From this equation, the equilibrium mean parasite burden, $m^*$, for the total p
 This is not an explicit expression of the equilibria $m_{i}^*$. Therefore, the equilibrium value can only be solved numerically.
 An equilibrium condition for the mean burdens of each subpopulation $H_{i}$ is given by
 \begin{equation}%\label{eqequilibrio}
-F(m^*_{i})=1/R_0^{i}
+F(m^*_{i})=\dfrac{1}{R_0^{i}},
 \end{equation}
-where we define by
-$R_0^{i}=\frac{ \lambda_0 \alpha \rho_{i}}{ (\mu_{\ell}+\sum_j N_j \beta_j )(\mu_{h}+\mu_p)} \left( \sum_j N_j\beta_{j} \right) $
-to the basic reproductive number of each subpopulation $H_{i}$
-which is the number of adult females 
-that are born of a 
-adult female from a host in subpopulation $H_{i}$ in the absence the effects of density-dependence and the mating probability.
-Note  what for a large $N$ value $R_0^i\approx \frac{ \lambda_0 \alpha  \rho_i }{ (\mu_h + \mu_p) }$.  
-Also for this equilibrium situation, we obtain that the mean parasite burden of each subpopulation $H_{i}$ is given by $m_{i}^*=\frac{\beta_{i}}{ \sum_j \pi_j\beta_{j } }m^*$.
+{\color{red}
+where we define the basic reproductive number of each subpopulation $H_i$ by
+\begin{equation}%\label{eqequilibrio}
+R_0^{i}=\frac{ \lambda_0 \alpha \rho_{i}}{ (\mu_{\ell}+\sum_j N_j \beta_j )(\mu_{h}+\mu_p)} \left( \sum_j N_j\beta_{j} \right),
+\end{equation}
+which is the number of adult females that are born of a adult female from a host in subpopulation $H_i$ in the absence the effects of density-dependence and the mating probability. Note what for a large $N$ value the reproductive number for each $H_i$ is given by
+%
+%to the basic reproductive number of each subpopulation $H_{i}$ which is the number of adult females that are born of a adult female from a host in subpopulation $H_{i}$ in the absence the effects of density-dependence and the mating probability.
+%Note  what for a large $N$ value $
+%
+\begin{equation}
+R_0^i\approx \frac{ \lambda_0 \alpha  \rho_i }{ (\mu_h + \mu_p) },  
+\end{equation}
+where
+
+Also for this equilibrium situation, we obtain that the mean parasite burden of each subpopulation $H_{i}$ is given by
+\begin{equation}
+m_{i}^*=\frac{\beta_{i}}{ \sum_j \pi_j\beta_{j } }m^*,
+\end{equation}
+where
+}
 
 The general basic reproductive number $R_0$ for the total population is given by %\cite{diekmann2012mathematical}
 \begin{equation}\label{valorR0}

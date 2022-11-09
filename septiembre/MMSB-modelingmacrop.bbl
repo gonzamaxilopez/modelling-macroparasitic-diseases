@@ -1,0 +1,138 @@
+\begin{thebibliography}{}
+
+\bibitem[Anderson and May, 1982]{anderson1982population}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Anderson, R. and May, R. (1982).
+\newblock \quotes{Population dynamics of human helminth infections: control by
+  chemotherapy}.
+\newblock {\em Nature}, 297(5867):557--563.
+
+\bibitem[Anderson and May, 1985]{anderson1985helminth}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Anderson, R. and May, R. (1985).
+\newblock \quotes{Helminth infections of humans: mathematical models,
+  population dynamics, and control}.
+\newblock {\em Advances in parasitology}, 24:1--101.
+
+\bibitem[Anderson and May, 1992]{anderson1992infectious}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Anderson, R. and May, R. (1992).
+\newblock {\em Infectious diseases of humans: dynamics and control}.
+\newblock Oxford university press.
+
+\bibitem[Anderson et~al., 2014]{anderson2014coverage}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Anderson, R., Truscott, J., and Hollingsworth, T. (2014).
+\newblock \quotes{The coverage and frequency of mass drug administration
+  required to eliminate persistent transmission of soil-transmitted helminths}.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 369(1645):20130435.
+
+\bibitem[Brooker et~al., 2006]{brooker2006contrasting}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Brooker, S., Alexander, N., Geiger, S., Moyeed, R.~A., Stander, J., Fleming,
+  F., Hotez, P.~J., Correa-Oliveira, R., and Bethony, J. (2006).
+\newblock \quotes{Contrasting patterns in the small-scale heterogeneity of
+  human helminth infections in urban and rural environments in brazil}.
+\newblock {\em International journal for parasitology}, 36(10-11):1143--1151.
+
+\bibitem[Churcher et~al., 2006]{churcher2006density}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Churcher, T.~S., Filipe, J.~A., and Bas{\'a}{\~n}ez, M.~G. (2006).
+\newblock \quotes{Density dependence and the control of helminth parasites}.
+\newblock {\em Journal of animal ecology}, 75(6):1313--1320.
+
+\bibitem[Freeman et~al., 2015]{freeman2015associations}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Freeman, M., Chard, A., Nikolay, B., Garn, J., Okoyo, C., Kihara, J., Njenga,
+  S., Pullan, R., Brooker, S., and Mwandawiro, C. (2015).
+\newblock \quotes{Associations between school-and household-level water,
+  sanitation and hygiene conditions and soil-transmitted helminth infection
+  among kenyan school children}.
+\newblock {\em Parasites \& vectors}, 8(1):1--13.
+
+\bibitem[Gandolfi et~al., 2015]{gandolfi2015epidemic}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Gandolfi, A., Pugliese, A., and Sinisgalli, C. (2015).
+\newblock \quotes{Epidemic dynamics and host immune response: a nested
+  approach}.
+\newblock {\em Journal of mathematical biology}, 70(3):399--435.
+
+\bibitem[Hall and Holland, 2000]{hall2000geographical}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Hall, A. and Holland, C. (2000).
+\newblock \quotes{Geographical variation in ascaris lumbricoides fecundity and
+  its implications for helminth control}.
+\newblock {\em Parasitology Today}, 16(12):540--544.
+
+\bibitem[Leyton, 1968]{leyton1968stochastic}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Leyton, M. (1968).
+\newblock \quotes{Stochastic models in populations of helminthic parasites in
+  the definitive host, ii: sexual mating functions}.
+\newblock {\em Mathematical Biosciences}, 3:413--419.
+
+\bibitem[Lopez and Aparicio, 2022a]{lopez2022general}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Lopez, G. and Aparicio, J. (2022a).
+\newblock \quotes{General model of sex distribution, mating probability and egg
+  production for macroparasites with polygamous mating system}.
+\newblock {\em arXiv preprint arXiv:2202.11552}.
+
+\bibitem[Lopez and Aparicio, 2022b]{lopez2022simple}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Lopez, G. and Aparicio, J. (2022b).
+\newblock \quotes{Simple models for macro-parasite distributions in hosts}.
+\newblock {\em arXiv preprint arXiv:2202.11282}.
+
+\bibitem[Macdonald et~al., 1965]{macdonald1965dynamics}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Macdonald, G. et~al. (1965).
+\newblock \quotes{The dynamics of helminth infections, with special reference
+  to schistosomes.}
+\newblock {\em Transactions of the Royal Society of Tropical Medicine and
+  Hygiene}, 59(5):489--506.
+
+\bibitem[Seo et~al., 1979]{seo1979frequency}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Seo, B.~S., Cho, S.~Y., and Chai, J.~Y. (1979).
+\newblock \quotes{Frequency distribution of ascaris lumbricoides in rural
+  koreans with special reference on the effect of changing endemicity}.
+\newblock {\em Korean J Parasitol}, 17(2):105--113.
+
+\bibitem[Tallis and Leyton, 1966]{tallis1966stochastic}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Tallis, G. and Leyton, M. (1966).
+\newblock \quotes{A stochastic approach to the study of parasite populations}.
+\newblock {\em Journal of Theoretical Biology}, 13:251--260.
+
+\bibitem[Tallis and Leyton, 1969]{tallis1969stochastic}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Tallis, G. and Leyton, M. (1969).
+\newblock \quotes{Stochastic models of populations of helminthic parasites in
+  the definitive host. i}.
+\newblock {\em Mathematical Biosciences}, 4(1-2):39--48.
+
+\bibitem[Truscott et~al., 2014]{truscott2014modeling}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Truscott, J., Hollingsworth, T.~D., and Anderson, R. (2014).
+\newblock \quotes{Modeling the interruption of the transmission of
+  soil-transmitted helminths by repeated mass chemotherapy of school-age
+  children}.
+\newblock {\em PLoS neglected tropical diseases}, 8(12):e3323.
+
+\bibitem[Truscott et~al., 2016]{truscott2016soil}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Truscott, J., Turner, H., Farrell, S., and Anderson, R. (2016).
+\newblock \quotes{Soil-transmitted helminths: mathematical models of
+  transmission, the impact of mass drug administration and transmission
+  elimination criteria}.
+\newblock {\em Advances in parasitology}, 94:133--198.
+
+\bibitem[Van~den Driessche, 2017]{van2017reproduction}
+\stepcounter{iteminbib} [\arabic{iteminbib}] \tab
+Van~den Driessche, P. (2017).
+\newblock \quotes{Reproduction numbers of infectious disease models}.
+\newblock {\em Infectious Disease Modelling}, 2(3):288--303.
+
+\end{thebibliography}
